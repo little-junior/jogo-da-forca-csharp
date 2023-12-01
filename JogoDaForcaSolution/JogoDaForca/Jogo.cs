@@ -29,7 +29,8 @@
                     Console.WriteLine($"Tentativas restantes: {tentativas}\n");
                     
                     Utilidade.ImprimirPalavra(palavraVaziaVetor);
-                    
+                    Console.WriteLine();
+
                     entrada = char.TryParse(Console.ReadLine(), out char caractere);
                     resultadoEntrada = Utilidade.VerificarEntrada(entrada, caractere, letrasDigitadas);
 
