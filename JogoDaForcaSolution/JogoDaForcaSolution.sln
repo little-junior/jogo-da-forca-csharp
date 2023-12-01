@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaForca", "JogoDaForca\JogoDaForca.csproj", "{C4648998-1E1F-4E82-B461-D3A82FF00600}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoDaForca", "JogoDaForca\JogoDaForca.csproj", "{C4648998-1E1F-4E82-B461-D3A82FF00600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{420740B3-B540-4C4E-BD33-2EB0DAAF9F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C4648998-1E1F-4E82-B461-D3A82FF00600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4648998-1E1F-4E82-B461-D3A82FF00600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4648998-1E1F-4E82-B461-D3A82FF00600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420740B3-B540-4C4E-BD33-2EB0DAAF9F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420740B3-B540-4C4E-BD33-2EB0DAAF9F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420740B3-B540-4C4E-BD33-2EB0DAAF9F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420740B3-B540-4C4E-BD33-2EB0DAAF9F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
